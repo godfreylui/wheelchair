@@ -1,0 +1,8 @@
+prefix=/home/godfrey/wheelchair/install
+
+Name: rt_gene
+Description: Description of rt_gene
+Version: 1.0.1
+Cflags: -I/home/godfrey/wheelchair/install/include
+Libs: -L/home/godfrey/wheelchair/install/lib 
+Requires: rospy std_msgs geometry_msgs sensor_msgs image_geometry cv_bridge image_transport tf tf_conversions message_runtime

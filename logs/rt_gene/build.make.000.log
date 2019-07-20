@@ -1,0 +1,75 @@
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target _rt_gene_generate_messages_check_deps_MSG_SubjectImagesList[0m
+[35m[1mScanning dependencies of target rt_gene_gencfg[0m
+[35m[1mScanning dependencies of target _rt_gene_generate_messages_check_deps_MSG_SubjectImages[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  7%] [34m[1mGenerating dynamic reconfigure files from cfg/ModelSize.cfg: /home/godfrey/wheelchair/devel/.private/rt_gene/include/rt_gene/ModelSizeConfig.h /home/godfrey/wheelchair/devel/.private/rt_gene/lib/python2.7/dist-packages/rt_gene/cfg/ModelSizeConfig.py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  7%] Built target sensor_msgs_generate_messages_eus
+[  7%] Built target _rt_gene_generate_messages_check_deps_MSG_SubjectImagesList
+[  7%] Built target _rt_gene_generate_messages_check_deps_MSG_SubjectImages
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  7%] Built target std_msgs_generate_messages_eus
+[  7%] Built target geometry_msgs_generate_messages_py
+[  7%] Built target sensor_msgs_generate_messages_py
+Generating reconfiguration files for ModelSize in rt_gene
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+Wrote header file in /home/godfrey/wheelchair/devel/.private/rt_gene/include/rt_gene/ModelSizeConfig.h
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  7%] Built target std_msgs_generate_messages_py
+[  7%] Built target std_msgs_generate_messages_cpp
+[  7%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  7%] Built target geometry_msgs_generate_messages_cpp
+[  7%] Built target geometry_msgs_generate_messages_lisp
+[  7%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  7%] Built target std_msgs_generate_messages_lisp
+[  7%] Built target rt_gene_gencfg
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  7%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target Model_allsubjects1.h5[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  7%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target dlib_face_recognition_resnet_model_v1.dat[0m
+[  7%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rt_gene_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rt_gene_generate_messages_py[0m
+[ 15%] [34m[1mGenerating EusLisp code from rt_gene/MSG_SubjectImages.msg[0m
+[ 23%] [34m[1mGenerating Python from MSG rt_gene/MSG_SubjectImages[0m
+Downloading https://imperialcollegelondon.box.com/shared/static/7zfltrwhrss0zsq2d2z0mgbz4j3ij3fk.dat to /home/godfrey/wheelchair/src/rt_gene/rt_gene/model_nets/dlib_face_recognition_resnet_model_v1.dat...Downloading https://imperialcollegelondon.box.com/shared/static/zu424pzptmw1klh70jsc697b37h7mwif.h5 to /home/godfrey/wheelchair/src/rt_gene/rt_gene/model_nets/Model_allsubjects1.h5...[ 30%] [34m[1mGenerating EusLisp code from rt_gene/MSG_SubjectImagesList.msg[0m
+[ 38%] [34m[1mGenerating Python from MSG rt_gene/MSG_SubjectImagesList[0m
+[ 53%] [34m[1mGenerating Python msg __init__.py for rt_gene[0m
+[ 53%] [34m[1mGenerating EusLisp manifest code for rt_gene[0m
+[ 53%] Built target rt_gene_generate_messages_py
+[35m[1mScanning dependencies of target rt_gene_generate_messages_cpp[0m
+[ 61%] [34m[1mGenerating C++ code from rt_gene/MSG_SubjectImages.msg[0m
+[ 69%] [34m[1mGenerating C++ code from rt_gene/MSG_SubjectImagesList.msg[0m
+[ 69%] Built target rt_gene_generate_messages_cpp
+[35m[1mScanning dependencies of target rt_gene_generate_messages_lisp[0m
+[ 76%] [34m[1mGenerating Lisp code from rt_gene/MSG_SubjectImages.msg[0m
+[ 84%] [34m[1mGenerating Lisp code from rt_gene/MSG_SubjectImagesList.msg[0m
+[ 84%] Built target rt_gene_generate_messages_lisp
+[35m[1mScanning dependencies of target rt_gene_generate_messages_nodejs[0m
+[ 92%] [34m[1mGenerating Javascript code from rt_gene/MSG_SubjectImages.msg[0m
+[100%] [34m[1mGenerating Javascript code from rt_gene/MSG_SubjectImagesList.msg[0m
+[100%] Built target rt_gene_generate_messages_nodejs
+[100%] Built target rt_gene_generate_messages_eus
+[35m[1mScanning dependencies of target rt_gene_generate_messages[0m
+[100%] Built target rt_gene_generate_messages
+ done.
+Checking md5sum on /home/godfrey/wheelchair/src/rt_gene/rt_gene/model_nets/dlib_face_recognition_resnet_model_v1.dat
+[100%] Built target dlib_face_recognition_resnet_model_v1.dat
+ done.
+Checking md5sum on /home/godfrey/wheelchair/src/rt_gene/rt_gene/model_nets/Model_allsubjects1.h5
+[100%] Built target Model_allsubjects1.h5
+[35m[1mScanning dependencies of target download_extra_data[0m
+[100%] Built target download_extra_data
+[35m[1mScanning dependencies of target download[0m
+[100%] Built target download

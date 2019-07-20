@@ -1,0 +1,8 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~interpupillary_distance" : \b [double] Interpupillary distance of participant min: 0.03, default: 0.058, max: 0.1
+- \b "~model_size" : \b [double] Scale of the 3D model of the face used for head pose estimation min: 10.0, default: 18.0, max: 40.0
+- \b "~head_pitch" : \b [double] Alter the head pose by the head_pitch min: -2.0, default: 0.0, max: 2.0
+

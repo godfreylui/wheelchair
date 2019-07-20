@@ -1,0 +1,6 @@
+devel_space: /home/godfrey/wheelchair/devel
+install: false
+install_space: /home/godfrey/wheelchair/install
+profile: default
+source_space: /home/godfrey/wheelchair/src
+workspace: /home/godfrey/wheelchair

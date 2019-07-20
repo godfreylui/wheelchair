@@ -1,0 +1,12 @@
+Symlinking /home/godfrey/wheelchair/devel/include/stereo_image_proc/DisparityConfig.h
+Symlinking /home/godfrey/wheelchair/devel/lib/libstereo_image_proc.so
+Symlinking /home/godfrey/wheelchair/devel/lib/pkgconfig/stereo_image_proc.pc
+Symlinking /home/godfrey/wheelchair/devel/lib/python2.7/dist-packages/stereo_image_proc/__init__.py
+Symlinking /home/godfrey/wheelchair/devel/lib/python2.7/dist-packages/stereo_image_proc/cfg/__init__.py
+Symlinking /home/godfrey/wheelchair/devel/lib/python2.7/dist-packages/stereo_image_proc/cfg/DisparityConfig.py
+Symlinking /home/godfrey/wheelchair/devel/lib/stereo_image_proc/stereo_image_proc
+Symlinking /home/godfrey/wheelchair/devel/share/stereo_image_proc/docs/DisparityConfig.wikidoc
+Symlinking /home/godfrey/wheelchair/devel/share/stereo_image_proc/docs/DisparityConfig.dox
+Symlinking /home/godfrey/wheelchair/devel/share/stereo_image_proc/docs/DisparityConfig-usage.dox
+Symlinking /home/godfrey/wheelchair/devel/share/stereo_image_proc/cmake/stereo_image_procConfig.cmake
+Symlinking /home/godfrey/wheelchair/devel/share/stereo_image_proc/cmake/stereo_image_procConfig-version.cmake

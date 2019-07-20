@@ -1,0 +1,14 @@
+image_pipeline/image_publisher
+/home/godfrey/wheelchair/devel/.private/image_publisher/cmake.lock /home/godfrey/wheelchair/devel/./cmake.lock
+/home/godfrey/wheelchair/devel/.private/image_publisher/include/image_publisher/ImagePublisherConfig.h /home/godfrey/wheelchair/devel/include/image_publisher/ImagePublisherConfig.h
+/home/godfrey/wheelchair/devel/.private/image_publisher/lib/libimage_publisher.so /home/godfrey/wheelchair/devel/lib/libimage_publisher.so
+/home/godfrey/wheelchair/devel/.private/image_publisher/lib/pkgconfig/image_publisher.pc /home/godfrey/wheelchair/devel/lib/pkgconfig/image_publisher.pc
+/home/godfrey/wheelchair/devel/.private/image_publisher/lib/python2.7/dist-packages/image_publisher/__init__.py /home/godfrey/wheelchair/devel/lib/python2.7/dist-packages/image_publisher/__init__.py
+/home/godfrey/wheelchair/devel/.private/image_publisher/lib/python2.7/dist-packages/image_publisher/cfg/__init__.py /home/godfrey/wheelchair/devel/lib/python2.7/dist-packages/image_publisher/cfg/__init__.py
+/home/godfrey/wheelchair/devel/.private/image_publisher/lib/python2.7/dist-packages/image_publisher/cfg/ImagePublisherConfig.py /home/godfrey/wheelchair/devel/lib/python2.7/dist-packages/image_publisher/cfg/ImagePublisherConfig.py
+/home/godfrey/wheelchair/devel/.private/image_publisher/lib/image_publisher/image_publisher /home/godfrey/wheelchair/devel/lib/image_publisher/image_publisher
+/home/godfrey/wheelchair/devel/.private/image_publisher/share/image_publisher/docs/ImagePublisherConfig-usage.dox /home/godfrey/wheelchair/devel/share/image_publisher/docs/ImagePublisherConfig-usage.dox
+/home/godfrey/wheelchair/devel/.private/image_publisher/share/image_publisher/docs/ImagePublisherConfig.wikidoc /home/godfrey/wheelchair/devel/share/image_publisher/docs/ImagePublisherConfig.wikidoc
+/home/godfrey/wheelchair/devel/.private/image_publisher/share/image_publisher/docs/ImagePublisherConfig.dox /home/godfrey/wheelchair/devel/share/image_publisher/docs/ImagePublisherConfig.dox
+/home/godfrey/wheelchair/devel/.private/image_publisher/share/image_publisher/cmake/image_publisherConfig-version.cmake /home/godfrey/wheelchair/devel/share/image_publisher/cmake/image_publisherConfig-version.cmake
+/home/godfrey/wheelchair/devel/.private/image_publisher/share/image_publisher/cmake/image_publisherConfig.cmake /home/godfrey/wheelchair/devel/share/image_publisher/cmake/image_publisherConfig.cmake

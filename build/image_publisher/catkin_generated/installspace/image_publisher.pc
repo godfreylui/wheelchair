@@ -1,0 +1,8 @@
+prefix=/home/godfrey/wheelchair/install
+
+Name: image_publisher
+Description: Description of image_publisher
+Version: 1.13.0
+Cflags: -I/home/godfrey/wheelchair/install/include
+Libs: -L/home/godfrey/wheelchair/install/lib 
+Requires: 

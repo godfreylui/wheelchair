@@ -1,0 +1,6 @@
+set(rt_gene_SETUP_PY_VERSION "1.0.1")
+set(rt_gene_SETUP_PY_SCRIPTS "")
+set(rt_gene_SETUP_PY_PACKAGES "rt_gene")
+set(rt_gene_SETUP_PY_PACKAGE_DIRS "src/rt_gene")
+set(rt_gene_SETUP_PY_MODULES "")
+set(rt_gene_SETUP_PY_MODULE_DIRS "")

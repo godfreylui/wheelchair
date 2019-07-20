@@ -1,0 +1,9 @@
+\subsubsection usage Usage
+\verbatim
+<node name="rt_gene" pkg="rt_gene" type="rt_gene">
+  <param name="interpupillary_distance" type="double" value="0.058" />
+  <param name="model_size" type="double" value="18.0" />
+  <param name="head_pitch" type="double" value="0.0" />
+</node>
+\endverbatim
+

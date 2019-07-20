@@ -1,0 +1,1 @@
+/home/godfrey/wheelchair/devel/.private/rt_gene/lib/python2.7/dist-packages/rt_gene/msg/__init__.py

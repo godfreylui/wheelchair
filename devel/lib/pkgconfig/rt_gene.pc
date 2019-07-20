@@ -1,0 +1,1 @@
+/home/godfrey/wheelchair/devel/.private/rt_gene/lib/pkgconfig/rt_gene.pc

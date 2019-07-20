@@ -1,0 +1,1 @@
+/home/godfrey/wheelchair/devel/.private/rt_gene/share/gennodejs/ros/rt_gene/msg/_index.js
